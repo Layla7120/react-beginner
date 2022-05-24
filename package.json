@@ -1,5 +1,5 @@
 {
-  "name": "react-for-beginner",
+  "name": "react-beginner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Layla7120.github.io/react-beginner"
+  "homepage": "https://layla7120.github.io/react-beginner/"
 }
